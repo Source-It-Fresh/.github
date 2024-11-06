@@ -1,2 +1,2 @@
 # .github
-Source-It-Fresh Public profile repo
+Source-It-Fresh Public Profile Repo.
