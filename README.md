@@ -1,2 +1,2 @@
 # .github
-SIF_README - desc here
+Source-It-Fresh Public profile repo
