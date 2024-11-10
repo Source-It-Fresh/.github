@@ -1,4 +1,21 @@
-## Hi there 👋
+## Millstones Reached:
+Early 2020 ::: Establish the overall “Source-it-Fresh” idea & ideals as an open source movement.
+Mid   2020 ::: Add 'GNU AGPL v3.0' Licencing to all metadata for future release into the wild.
+Late  2020 ::: Register the “Source-it-Fresh” .com .org domains (.net; .info; ...others Pending)
+
+Early 2021 ::: Setup & Configured MS Azure-Portal alongside Office365 Subscriptions; Resources; Dashboards; etc.
+Mid   2021 ::: Setup & Configured MS DevOps settings, with Backload; Repo; Internal-Wiki; Teams; Sprints; etc.
+Late  2021 ::: Populate Wiki & "learning materials". Finalize concepts add logos, "art" and some landing page fluff.
+
+AllOf 2022 ::: Research & Development of multiple Prototypes from WinForm to ‘NopCommerce’ and ‘OpenCart’ with Firebase-Auth and a multitude of others.
+
+AllOf 2023 ::: Research & Development of ASPNET Proof-Of-Concept applications and tests. (MVC; RazorPages; Blazor; PWA; & MAUI-Hybrid;)
+
+Early 2024 ::: Sweat a Real-world Pilot-Garden into existence as a testbed. (With the help of the local community)
+Mid   2024 ::: Wright Paper about what we are doing and why, with the hopes of attracting contributes. (pre-review InProgress)
+Late  2024 ::: Setup Public Git Repo & Move noncritical code objects over.
+
+Early 2025 ::: Roadmap To Follow...
 
 <!--
 **Here are some ideas to get you started:**
