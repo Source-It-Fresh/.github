@@ -43,7 +43,7 @@ Technology on its own is not the answer but it gives us the tools to communicate
 * :red_circle: Early_2025:
   - :heavy_dollar_sign: Looking for [fiscal host](https://docs.opencollective.com/help/fiscal-hosts/fiscal-hosts) infrastructure to back and integrate/implement a donations model.
   - :open_book: The transaction layer is for all users to conclude payments to providers of goods and or services. This portion of our application has not been concluded and contributors are invited to participate. transact@sourceitfresh.com
-  - :world_map: Roadmap To Follow...
+  - :world_map: Condensed Public Roadmap...
 
 ## :sunrise: Next Steps : 
 To date, SiF has been internally funded. Our capacity to launch and grow this project without external funding and contributors will be limited. While there are funding models that could be deployed, and many have been discussed at length, they have their own pitfalls, and we see limitations to growth in the poorest regions and territories where SiF could be most influential.
