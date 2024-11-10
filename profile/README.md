@@ -41,7 +41,7 @@ Technology on its own is not the answer but it gives us the tools to communicate
 
 ### :clock6: 2025 - Y06
 * Early_2025:
-  - :heavy_dollar_sign: Looking for a fiscal host to integrate a donation model.
+  - :heavy_dollar_sign: Looking for fiscal host infrastructure to back and integrate/implement a donations model.
   - :open_book: The transaction layer is for all users to conclude payments to providers of goods and or services. This portion of our application has not been concluded and contributors are invited to participate. transact@sourceitfresh.com
   - :world_map: Roadmap To Follow...
 
