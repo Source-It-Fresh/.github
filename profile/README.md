@@ -41,7 +41,7 @@ Technology on its own is not the answer but it gives us the tools to communicate
 
 ### :clock6: 2025 - Y06
 * Early_2025:
-  - :heavy_dollar_sign: Looking for fiscal host infrastructure to back and integrate/implement a donations model.
+  - :heavy_dollar_sign: Looking for [fiscal host](https://docs.opencollective.com/help/fiscal-hosts/fiscal-hosts) infrastructure to back and integrate/implement a donations model.
   - :open_book: The transaction layer is for all users to conclude payments to providers of goods and or services. This portion of our application has not been concluded and contributors are invited to participate. transact@sourceitfresh.com
   - :world_map: Roadmap To Follow...
 
@@ -53,5 +53,6 @@ Future development of the platform from participants anywhere on the planet, als
 
 ---
 
-:scroll: **SiF** is **licensed** under [**Copyleft GNU Affero General Public License v3.0**](https://www.gnu.org/licenses/agpl-3.0.en.html) <br>
-:email: **Note:** _Comments, edit suggestions, and input can be communicated to our team through 'https://sourceitfresh.org/en/contributors' or_ [_paper@sourceitfresh.org_](mailto:paper@sourceitfresh.org?subject=SIF%20Paper%20Feedback).
+:scroll: **SiF** is **licensed** under [_**Copyleft GNU Affero General Public License v3.0**_](https://www.gnu.org/licenses/agpl-3.0.en.html). <br>
+:email: **Email:** Comments, edit suggestions, and input can be communicated to our team through [**_paper@sourceitfresh.org_**](mailto:paper@sourceitfresh.org?subject=SIF%20Paper%20Feedback). <br>
+:handshake: **Note:** See _**https://sourceitfresh.org/en/contributors**_ to join the team. <br>
