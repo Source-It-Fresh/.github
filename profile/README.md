@@ -18,7 +18,7 @@
 ### 2024 - 005
 - Early-2024 ::: Sweat a Real-world Pilot-Garden into existence as a testbed. (With the help of the local community)
 - Mid-2024 ::: Wright Paper about what we are doing and why, with the hopes of attracting contributions. (pre-review InProgress)
-- Late-2024 ::: Setup Public Git Repo & Move noncritical code objects over.
+- Late-2024 ::: Setup Public Git Repo & Move noncritical code objects over. While looking for a fiscal host to integrate a donation model.
 
 ### 2025 - 006
 - Early_2025 ::: Roadmap To Follow...
