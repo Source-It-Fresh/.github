@@ -19,28 +19,28 @@ Technology on its own is not the answer but it gives us the tools to communicate
 
 ## :triangular_flag_on_post: Millstones Reached : 
 ### :clock1: 2020 - Y01 
-- Early-2020: :bulb: Establish the overall “Source-it-Fresh” idea & ideals as an Open-Source-Movement.
-- Mid-2020: :copyright: Add 'GNU AGPL v3.0' licensing to all metadata for future release into the wild.
-- Late-2020: :registered: Register the “Source-it-Fresh” .com .org domains (.net; .info; ...others Pending)
+- :green_circle: Early-2020: :bulb: Establish the overall “Source-it-Fresh” idea & ideals as an Open-Source-Movement.
+- :green_circle: Mid-2020: :copyright: Add 'GNU AGPL v3.0' licensing to all metadata for future release into the wild.
+- :green_circle: Late-2020: :registered: Register the “Source-it-Fresh” .com .org domains (.net; .info; ...others Pending)
 
 ### :clock2: 2021 - Y02
-- Early-2021: :hammer_and_wrench: Setup & Configured MS Azure-Portal alongside Office365 Subscriptions; Resources; Dashboards; etc.
-- Mid-2021: :gear: Setup & Configured MS DevOps settings, with Backload; Repo; Internal-Wiki; Teams; Sprints; etc.
-- Late-2021: :art: Populate Wiki & "learning materials". Finalize concepts add logos, "art" and some landing page fluff.
+- :green_circle: Early-2021: :hammer_and_wrench: Setup & Configured MS Azure-Portal alongside Office365 Subscriptions; Resources; Dashboards; etc.
+- :green_circle: Mid-2021: :gear: Setup & Configured MS DevOps settings, with Backload; Repo; Internal-Wiki; Teams; Sprints; etc.
+- :green_circle: Late-2021: :art: Populate Wiki & "learning materials". Finalize concepts add logos, "art" and some landing page fluff.
 
 ### :clock3: 2022 - Y03
-* AllOf-2022: :triangular_ruler: Research & Development of multiple Prototypes from WinForm to ‘NopCommerce’ and ‘OpenCart’ with Firebase-Auth and a multitude of others.
+* :green_circle: All-Of-2022: :triangular_ruler: Research & Development of multiple Prototypes from WinForm to ‘NopCommerce’ and ‘OpenCart’ with Firebase-Auth and a multitude of others.
 
 ### :clock4: 2023 - Y04
-* AllOf_2023: :computer: Research & Development of ASPNET Proof-Of-Concept applications and tests. (MVC; RazorPages; Blazor; PWA; & MAUI-Hybrid;)
+* :green_circle: All-Of-2023: :computer: Research & Development of ASPNET Proof-Of-Concept applications and tests. (MVC; RazorPages; Blazor; PWA; & MAUI-Hybrid;)
 
 ### :clock5: 2024 - Y05
-- Early-2024: :seedling: Sweat a Real-world Pilot-Garden into existence as a testbed. (With the help of the local community)
-- Mid-2024: :newspaper: Wright Paper about what we are doing and why, with the hopes of attracting contributions. (pre-review InProgress)
-- Late-2024: :octocat: Setup Public Git Repo & Move noncritical code objects over.
+- :green_circle: Early-2024: :seedling: Sweat a Real-world Pilot-Garden into existence as a testbed. (With the help of the local community)
+- :green_circle: Mid-2024: :newspaper: Wright Paper about what we are doing and why, with the hopes of attracting contributions. (pre-review InProgress)
+- :large_blue_circle: Late-2024: :octocat: Setup Public Git Repo & Move noncritical code objects over.
 
 ### :clock6: 2025 - Y06
-* Early_2025:
+* :red_circle: Early_2025:
   - :heavy_dollar_sign: Looking for [fiscal host](https://docs.opencollective.com/help/fiscal-hosts/fiscal-hosts) infrastructure to back and integrate/implement a donations model.
   - :open_book: The transaction layer is for all users to conclude payments to providers of goods and or services. This portion of our application has not been concluded and contributors are invited to participate. transact@sourceitfresh.com
   - :world_map: Roadmap To Follow...
