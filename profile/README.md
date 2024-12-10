@@ -11,7 +11,7 @@
 # :ledger: Overview : 
 SiF has no aspirations to be a corporation with profit incentives, shareholders, and board members. The people who participate are ultimately in control. It is a non-hierarchical system. Whilst individuals (owner - administrator – manager etc.) will enjoy rights, on each instance of the application, of varying levels of access and authority, the overriding element of the system is a flat, community-centric structure with a _**leaning towards equitable energy exchange.**_
 
-If we’re to find a path towards freedom and health, we'll need an alternative to our current system. One that understands and nurtures ancient wisdom for living in harmony with the naturally abundant value our planet offers. One that invites many people to participate and one that doesn’t preclude anyone by virtue of their location, status, ethnicity, or age. SiF is not political, religious, racial nor genderist. There is no built-in mechanism to observe, manipulate or apply thought control. It’s a "soil-up" movement where people have the choice to decide how and why they engage, promote transparency, trust, and accountability. 
+If we’re to find a path towards freedom and health, we'll need an alternative to our current system. One that understands and nurtures ancient wisdom for living in harmony with the naturally abundant value our planet offers. One that invites many people to participate and one that doesn’t preclude anyone by virtue of their location, status, ethnicity, or age. SiF is not political, religious, racial nor genderist. There is no built-in mechanism to observe, manipulate or apply thought control. It’s a "soil-up" movement where people have the choice to decide how and why they engage, promote transparency, trust and accountability. 
 
 We propose to launch a global no-cost/low-cost, decentralised “cell-based”, open-source platform for food and consumer goods. Encouraging localised production and consumption, reducing wasteful practices. Sharing unbiased, valuable data between participating producers for better production outcomes and transparency for consumers. Collating seasonal and geolocation-oriented data to assist producers and improve education for new participants. Providing an uncomplicated mechanism for all parties in the cycle to source/broadcast products, consume, and trade on a transaction layer with an **_emphasis on value stability_**.
 
@@ -36,7 +36,7 @@ Technology on its own is not the answer but it gives us the tools to communicate
 
 ### :clock5: 2024 - Y05
 - :green_circle: Early-2024: :seedling: Sweat a Real-world Pilot-Garden into existence as a testbed. (With the help of the local community)
-- :green_circle: Mid-2024: :newspaper: Wright Paper about what we are doing and why, with the hopes of attracting contributions. (pre-review InProgress)
+- :green_circle: Mid-2024: :newspaper: Write Paper about what we are doing and why, with the hopes of attracting contributions. (pre-review InProgress)
 - :large_blue_circle: Late-2024: :octocat: Setup Public Git Repo & Move noncritical code objects over.
 
 ### :clock6: 2025 - Y06
