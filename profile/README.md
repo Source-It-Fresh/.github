@@ -17,7 +17,7 @@ We propose to launch a global no-cost/low-cost, decentralised “cell-based”, 
 
 Technology on its own is not the answer but it gives us the tools to communicate, share and learn. 
 
-## :triangular_flag_on_post: Millstones Reached : 
+## :triangular_flag_on_post: Milestones Reached : 
 ### :clock1: 2020 - Y01 
 - :green_circle: Early-2020: :bulb: Establish the overall “Source-it-Fresh” idea & ideals as an Open-Source-Movement.
 - :green_circle: Mid-2020: :copyright: Add 'GNU AGPL v3.0' licensing to all metadata for future release into the wild.
