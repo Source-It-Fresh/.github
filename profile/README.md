@@ -9,6 +9,8 @@
 -->
 
 # :ledger: Overview : 
+Source it Fresh is a decentralised, digital suite of tools for anyone in the production, supply and consumption of fresh consumable products. We're open sourcing it for the global community to enhance and improve upon. Cutting edge tech, localisation, globalisation and low cost implementation is key to ensuring resilience and ease of adoption.
+
 SiF has no aspirations to be a corporation with profit incentives, shareholders, and board members. The people who participate are ultimately in control. It is a non-hierarchical system. Whilst individuals (owner - administrator – manager etc.) will enjoy rights, on each instance of the application, of varying levels of access and authority, the overriding element of the system is a flat, community-centric structure with a _**leaning towards equitable energy exchange.**_
 
 If we’re to find a path towards freedom and health, we'll need an alternative to our current system. One that understands and nurtures ancient wisdom for living in harmony with the naturally abundant value our planet offers. One that invites many people to participate and one that doesn’t preclude anyone by virtue of their location, status, ethnicity, or age. SiF is not political, religious, racial nor genderist. There is no built-in mechanism to observe, manipulate or apply thought control. It’s a "soil-up" movement where people have the choice to decide how and why they engage, promote transparency, trust and accountability. 
