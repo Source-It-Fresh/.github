@@ -11,13 +11,13 @@
 # :ledger: Overview : 
 **"A quiet regenerative evolution"** Why have we chosen that byline?
 
-Regenerative adjective (IMPROVING) - Relating to the improvement of a place or system, especially by making it more active or successful, or to making a person feel happier and more positive: - Cambridge dictionary
+**Regenerative** adjective (IMPROVING) - Relating to the improvement of a place or system, especially by making it more active or successful, or to making a person feel happier and more positive: - Cambridge dictionary
 
-Evolution is a process of continuous branching and diversification from common trunks. This pattern of irreversible separation gives life's history its basic directionality. — Stephen Jay Gould
+**Evolution** is a process of continuous branching and diversification from common trunks. This pattern of irreversible separation gives life's history its basic directionality. — Stephen Jay Gould
 
 **Do we really need an evolution of the food system?**
 
-If your answer is yes, then get on board and help us launch a global , multi-lingual mobile application for anyone who is a consumer of food and related products. Anyone who produces food and related products and anyone who supplies services and or products to complete the loop between the consumers and the producers. 
+If your answer is yes, then get on board and help us launch a global, multi-lingual mobile application for anyone who is a consumer of food and related products. Anyone who produces food and related products and anyone who supplies services and or products to complete the loop between the consumers and the producers. 
 
 Who is for? 
 
@@ -40,7 +40,13 @@ One goal is to help people easily manage the production of healthy, nutritious f
 
 We've set in motion three phases for this evolution, the first of which is the mobile application, now ready for the open-source community, which is designed around several basic principals to meet these goals. It's an alternative to our current system, built to nurture ancient wisdom for living in harmony with the naturally abundant, infinite value our planet offers. 
 
-On the surface, Source it Fresh may appear to be just another "Farm to Fork". Under the skin, it's a lot more! We've designed the system to encourage and enable localised production and consumption, reducing wasteful practices. We've built in freedom of choice for collaboration and voluntary sharing of production data (anonomously) between participating producers. Collation of seasonal and geolocation-oriented data offers producers, in corresponding zones and seasons, access to real-time information while giving new users access to a robust store of knowledge. This has been done to encourage better production outcomes and more transparency for consumers. It's suitable for anyone with a mobile or desktop device to produce, source or broadcast products including delivery and payment options (further detail available in our paper). All on one platform where knowledge, convenience, accessibility, value stability and trade all combine to provide consistent supply/demand conditions, improved redundancy and most importantly, resilience against manipulation and centralised control.
+On the surface, Source it Fresh may appear to be just another "Farm to Fork". Under the skin, it's a lot more! 
+We've designed the system to encourage and enable localised production and consumption, reducing wasteful practices. 
+We've built in freedom of choice for collaboration and voluntary sharing of production data (anonomously) between participating producers. Collation of seasonal and geolocation-oriented data offers producers, in corresponding zones and seasons, access to real-time information while giving new users access to a robust store of knowledge. 
+This has been done to encourage better production outcomes and more transparency for consumers. 
+
+It's suitable for anyone with a mobile or desktop device to produce, source or broadcast products including delivery and payment options (further detail available in our paper). 
+All on one platform where knowledge, convenience, accessibility, value stability and trade all combine to provide consistent supply/demand conditions, improved redundancy and most importantly, resilience against manipulation and centralised control.
 
 We also want many people to participate and don’t restrict anyone because of their location, status, ethnicity, or age. Source it Fresh is not political, religious, racial nor genderist. There is no built-in mechanism to observe, manipulate or apply thought control. It’s a "soil-up" movement where people have the choice to decide how and why they engage, promote transparency, build trust and offer accountability.
 
