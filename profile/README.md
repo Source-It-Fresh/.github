@@ -9,15 +9,42 @@
 -->
 
 # :ledger: Overview : 
-Source it Fresh is a decentralised, digital suite of tools for anyone in the production, supply and consumption of fresh consumable products. We're open sourcing it for the global community to enhance and improve upon. Cutting edge tech, localisation, globalisation and low cost implementation is key to ensuring resilience and ease of adoption.
+**"A quiet regenerative evolution"** Why have we chosen that byline?
 
-SiF has no aspirations to be a corporation with profit incentives, shareholders, and board members. The people who participate are ultimately in control. It is a non-hierarchical system. Whilst individuals (owner - administrator – manager etc.) will enjoy rights, on each instance of the application, of varying levels of access and authority, the overriding element of the system is a flat, community-centric structure with a _**leaning towards equitable energy exchange.**_
+Regenerative adjective (IMPROVING) - Relating to the improvement of a place or system, especially by making it more active or successful, or to making a person feel happier and more positive: - Cambridge dictionary
 
-If we’re to find a path towards freedom and health, we'll need an alternative to our current system. One that understands and nurtures ancient wisdom for living in harmony with the naturally abundant value our planet offers. One that invites many people to participate and one that doesn’t preclude anyone by virtue of their location, status, ethnicity, or age. SiF is not political, religious, racial nor genderist. There is no built-in mechanism to observe, manipulate or apply thought control. It’s a "soil-up" movement where people have the choice to decide how and why they engage, promote transparency, trust and accountability. 
+Evolution is a process of continuous branching and diversification from common trunks. This pattern of irreversible separation gives life's history its basic directionality. — Stephen Jay Gould
 
-We are launching a global no-cost/low-cost, decentralised “cell-based”, open-source platform for food and consumer goods. Encouraging localised production and consumption, reducing wasteful practices. Sharing unbiased, valuable data between participating producers for better production outcomes and transparency for consumers. Collating seasonal and geolocation-oriented data to assist producers and improve education for new participants. Providing an uncomplicated mechanism for all parties in the cycle to source/broadcast products, consume, and trade on a transaction layer with an **_emphasis on value stability_**.
+**Do we really need an evolution of the food system?**
 
-Technology on its own is not the answer but it gives us the tools to communicate, share and learn. 
+If your answer is yes, then get on board and help us launch a global , multi-lingual mobile application for anyone who is a consumer of food and related products. Anyone who produces food and related products and anyone who supplies services and or products to complete the loop between the consumers and the producers. 
+
+Who is for? 
+
+People who want freedom of choice in what they consume and what they produce. It's for people who want to be pioneers of the transformation we most definitely need for the coming years.
+
+If you're still sceptical about where we are in the global scheme of things..
+
+Let's start with a few questions.. and let's apply the Qui Bono (to whom is it a benefit?) principle.
+
+If the food you eat makes you sick, who benefits? If local regenerative farms are stifled and big ag promoted, who benefits? If policies and regulations threaten the livelyhoods of local farmers, who benefits? We could go on and on with this but you get the drift. Try it yourself with ANY of the measures introduced by the powers that be.
+
+That being said, many aspects of the global food system are failing.  The current power structures don't seem willing or able to provide solutions at all. Is this intentional? Or, is it the result of bloated, incompetent governance that lacks capacity to perform? 
+Whatever the reasons, the crisis is here and steadily getting worse. 
+
+We, the many, have the power to change the way we do things and erode the power of systems presently in play.
+
+How, you ask. And where do we begin?
+
+One goal is to help people easily manage the production of healthy, nutritious food while offering simple and convenient access to it. Another is to make it free to use and  easy for everyone to participate in regenerating their environment. 
+
+We've set in motion three phases for this evolution, the first of which is the mobile application, now ready for the open-source community, which is designed around several basic principals to meet these goals. It's an alternative to our current system, built to nurture ancient wisdom for living in harmony with the naturally abundant, infinite value our planet offers. 
+
+On the surface, Source it Fresh may appear to be just another "Farm to Fork". Under the skin, it's a lot more! We've designed the system to encourage and enable localised production and consumption, reducing wasteful practices. We've built in freedom of choice for collaboration and voluntary sharing of production data (anonomously) between participating producers. Collation of seasonal and geolocation-oriented data offers producers, in corresponding zones and seasons, access to real-time information while giving new users access to a robust store of knowledge. This has been done to encourage better production outcomes and more transparency for consumers. It's suitable for anyone with a mobile or desktop device to produce, source or broadcast products including delivery and payment options (further detail available in our paper). All on one platform where knowledge, convenience, accessibility, value stability and trade all combine to provide consistent supply/demand conditions, improved redundancy and most importantly, resilience against manipulation and centralised control.
+
+We also want many people to participate and don’t restrict anyone because of their location, status, ethnicity, or age. Source it Fresh is not political, religious, racial nor genderist. There is no built-in mechanism to observe, manipulate or apply thought control. It’s a "soil-up" movement where people have the choice to decide how and why they engage, promote transparency, build trust and offer accountability.
+
+If you're still unsure about getting involved, drop us a note. We'll try to respond as quickly as we can.
 
 ## :triangular_flag_on_post: Milestones Reached : 
 ### :clock1: 2020 - Y01 
