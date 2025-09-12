@@ -23,9 +23,9 @@ Who is it for?
 
 People who want freedom of choice in what they consume and what they produce. It's for people who want to be pioneers of the transformation we most definitely need for the coming years.
 
-If you're still sceptical about where we are in the global scheme of things..
+If you're still sceptical about where we are in the global scheme of things...
 
-Let's start with a few questions.. and let's apply the Qui Bono (to whom is it a benefit?) principle.
+Let's start with a few questions... and let's apply the Qui Bono (to whom is it a benefit?) principle.
 
 If the food you eat makes you sick, who benefits? If local regenerative farms are stifled and big ag promoted, who benefits? If policies and regulations threaten the livelyhoods of local farmers, who benefits? We could go on and on with this but you get the drift. Try it yourself with ANY of the measures introduced by the powers that be.
 
@@ -36,7 +36,7 @@ We, the many, have the power to change the way we do things and erode the power 
 
 How, you ask. And where do we begin?
 
-One goal is to help people easily manage the production of healthy, nutritious food while offering simple and convenient access to it. Another is to make it free to use and  easy for everyone to participate in regenerating their environment. 
+One goal is to help people easily manage the production of healthy, nutritious food while offering simple and convenient access to it. Another is to make it free to use and easy for everyone to participate in regenerating their environment. 
 
 We've set in motion three phases for this evolution, the first of which is the mobile application, now ready for the open-source community, which is designed around several basic principals to meet these goals. It's an alternative to our current system, built to nurture ancient wisdom for living in harmony with the naturally abundant, infinite value our planet offers. 
 
