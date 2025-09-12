@@ -38,7 +38,7 @@ How, you ask. And where do we begin?
 
 One goal is to help people easily manage the production of healthy, nutritious food while offering simple and convenient access to it. Another is to make it free to use and easy for everyone to participate in regenerating their environment. 
 
-We've set in motion three phases for this evolution, the first of which is the mobile application, now ready for the open-source community, which is designed around several basic principals to meet these goals. It's an alternative to our current system, built to nurture ancient wisdom for living in harmony with the naturally abundant, infinite value our planet offers. 
+We've set in motion three phases for this evolution, the first of which is the mobile application, now ready for the open-source community, which is designed around several basic principals to meet these goals. It's an alternative and runs parallel to our current system, built to nurture ancient wisdom for living in harmony with the naturally abundant, infinite value our planet offers. 
 
 On the surface, Source it Fresh may appear to be just another "Farm to Fork". Under the skin, it's a lot more! 
 We've designed the system to encourage and enable localised production and consumption, reducing wasteful practices. 
