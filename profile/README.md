@@ -19,7 +19,7 @@
 
 If your answer is yes, then get on board and help us launch a global, multi-lingual mobile application for anyone who is a consumer of food and related products. Anyone who produces food and related products and anyone who supplies services and or products to complete the loop between the consumers and the producers. 
 
-Who is for? 
+Who is it for? 
 
 People who want freedom of choice in what they consume and what they produce. It's for people who want to be pioneers of the transformation we most definitely need for the coming years.
 
