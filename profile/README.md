@@ -36,7 +36,8 @@ We, the many, have the power to change the way we do things and erode the power 
 
 How, you ask. And where do we begin?
 
-One goal is to help people easily manage the production of healthy, nutritious food while offering simple and convenient access to it. Another is to make it free to use and easy for everyone to participate in regenerating their environment. 
+One goal is to help people easily manage the production of healthy, nutritious food while offering simple and convenient access to it. 
+Another is to make it free to use and easy for everyone to participate in regenerating their environment. 
 
 We've set in motion three phases for this evolution, the first of which is the mobile application, now ready for the open-source community, which is designed around several basic principals to meet these goals. It's an alternative and runs parallel to our current system, built to nurture ancient wisdom for living in harmony with the naturally abundant, infinite value our planet offers. 
 
