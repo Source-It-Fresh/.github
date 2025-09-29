@@ -28,7 +28,7 @@ Whatever the reasons, the crisis is here and steadily getting worse.
 
 We, the many, have the power to change the way we do things and erode the power of systems presently in play.
 
-How, you ask. And where do we begin?
+How, you ask? And where do we begin?
 
 One of our goals is to help people easily manage the production of healthy, nutritious food while offering simple and convenient access to it. 
 Another is to make it free to use while offering everyone a way to easily participate in regenerating their environment. 
