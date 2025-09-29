@@ -36,14 +36,9 @@ Another is to make it free to use while offering everyone a way to easily partic
 We've set in motion three phases for this evolution, the first of which is the mobile application, now ready for the open-source community and designed specifically with basic principals to meet these goals. It's an alternative which runs parallel to our current system, built to nurture ancient wisdom for living in harmony with the naturally abundant, infinite value our planet offers. 
 
 On the surface, Source it Fresh may appear to be just another "Farm to Fork". Under the skin, it's a lot more! 
-We've designed the system to encourage and enable localised production and consumption, reducing wasteful practices. 
-We've built in freedom of choice for collaboration and voluntary sharing of production data (anonomously) between participating producers. Collation of seasonal and geolocation-oriented data offers producers, in corresponding zones and seasons, access to real-time information while giving new users access to a robust store of knowledge. 
-This has been done to encourage better production outcomes and more transparency for consumers. 
+It's geared to encourage and enable localised production and consumption, reducing wasteful practices. It's built with freedom of choice for collaboration and voluntary sharing of production data (anonomously) between participating producers and suppliers, promoting better production outcomes and transparency for consumers. It's suitable for anyone with a mobile or desktop device who wants to produce, source or broadcast products including delivery and payment options. And, it's all on one platform where knowledge, convenience, accessibility, value stability and trade all combine to allow for consistent supply/demand conditions, improved redundancy and most importantly, resilience against manipulation and centralised control (further detail available in our paper).
 
-It's suitable for anyone with a mobile or desktop device to produce, source or broadcast products including delivery and payment options (further detail available in our paper). 
-All on one platform where knowledge, convenience, accessibility, value stability and trade all combine to provide consistent supply/demand conditions, improved redundancy and most importantly, resilience against manipulation and centralised control.
-
-We also want many people to participate and don’t restrict anyone because of their location, status, ethnicity, or age. Source it Fresh is not political, religious, racial nor genderist. There is no built-in mechanism to observe, manipulate or apply thought control. It’s a "soil-up" movement where people have the choice to decide how and why they engage, promote transparency, build trust and offer accountability.
+It's also engineered to include everyone who wants to participate and doesn't restrict anyone because of their location, status, ethnicity, or age. Source it Fresh is not political, religious, racial nor genderist. There is no built-in mechanism to observe, manipulate or apply thought control. It’s a "soil-up" movement where people have the choice to decide how and why they engage, promote transparency, build trust and offer accountability.
 
 If you're still unsure about getting involved, drop us a note. We'll try to respond as quickly as we can.
 
