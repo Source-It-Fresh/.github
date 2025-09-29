@@ -17,17 +17,11 @@
 
 **Do we really need an evolution of the food system?**
 
-If your answer is yes, then get on board and help us launch a global, multi-lingual mobile application for anyone who is a consumer of food and related products. Anyone who produces food and related products and anyone who supplies services and or products to complete the loop between the consumers and the producers. 
+If your answer is yes, then get on board and help us launch a global, multi-lingual food systems mobile application for consumers, producers and complimentary suppliers. It's designed for anyone who produces food and related products, consumes food and related products and anyone who supplies services or related products to complete the cycle between consumers and producers. It's geared for people who want freedom of choice in what they consume and what they produce. It's for people who want to be part of the transformation we most definitely need for the coming years.
 
-Who is it for? 
+If you're still sceptical, let's start with a few questions... and let's apply the Qui Bono (to whom is it a benefit?) principle.
 
-People who want freedom of choice in what they consume and what they produce. It's for people who want to be pioneers of the transformation we most definitely need for the coming years.
-
-If you're still sceptical about where we are in the global scheme of things...
-
-Let's start with a few questions... and let's apply the Qui Bono (to whom is it a benefit?) principle.
-
-If the food you eat makes you sick, who benefits? If local regenerative farms are stifled and big ag promoted, who benefits? If policies and regulations threaten the livelyhoods of local farmers, who benefits? We could go on and on with this but you get the drift. Try it yourself with ANY of the measures introduced by the powers that be.
+If the food you eat makes you sick, who benefits? If local regenerative farms are stifled and big ag promoted, who benefits? If policies and regulations threaten the livelyhoods of local farmers, who benefits? We could go on and on with this but you get the drift. Try it yourself with ANY of the measures introduced by the policy makers.
 
 That being said, many aspects of the global food system are failing.  The current power structures don't seem willing or able to provide solutions at all. Is this intentional? Or, is it the result of bloated, incompetent governance that lacks capacity to perform? 
 Whatever the reasons, the crisis is here and steadily getting worse. 
@@ -36,10 +30,10 @@ We, the many, have the power to change the way we do things and erode the power 
 
 How, you ask. And where do we begin?
 
-One goal is to help people easily manage the production of healthy, nutritious food while offering simple and convenient access to it. 
-Another is to make it free to use and easy for everyone to participate in regenerating their environment. 
+One of our goals is to help people easily manage the production of healthy, nutritious food while offering simple and convenient access to it. 
+Another is to make it free to use while offering everyone a way to easily participate in regenerating their environment. 
 
-We've set in motion three phases for this evolution, the first of which is the mobile application, now ready for the open-source community, which is designed around several basic principals to meet these goals. It's an alternative and runs parallel to our current system, built to nurture ancient wisdom for living in harmony with the naturally abundant, infinite value our planet offers. 
+We've set in motion three phases for this evolution, the first of which is the mobile application, now ready for the open-source community and designed specifically with basic principals to meet these goals. It's an alternative which runs parallel to our current system, built to nurture ancient wisdom for living in harmony with the naturally abundant, infinite value our planet offers. 
 
 On the surface, Source it Fresh may appear to be just another "Farm to Fork". Under the skin, it's a lot more! 
 We've designed the system to encourage and enable localised production and consumption, reducing wasteful practices. 
