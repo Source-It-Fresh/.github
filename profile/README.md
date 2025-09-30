@@ -13,7 +13,7 @@
 
 **Regenerative** adjective (IMPROVING) - _Relating to the improvement of a place or system, especially by making it more active or successful, or to making a person feel happier and more positive_: - Cambridge dictionary
 
-**Evolution** _is a process of continuous branching and diversification from common trunks. This pattern of irreversible separation gives life's history its basic directionality._ — Stephen Jay Gould
+**Evolution** - _is a process of continuous branching and diversification from common trunks. This pattern of irreversible separation gives life's history its basic directionality._ — Stephen Jay Gould
 
 **Do we really need an evolution of the food system?**
 
