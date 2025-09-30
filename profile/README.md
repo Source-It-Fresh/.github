@@ -11,9 +11,9 @@
 # :ledger: Overview : 
 **"A quiet regenerative evolution"** Why have we chosen that byline?
 
-**Regenerative** adjective (IMPROVING) - Relating to the improvement of a place or system, especially by making it more active or successful, or to making a person feel happier and more positive: - Cambridge dictionary
+**Regenerative** adjective (IMPROVING) - [Relating to the improvement of a place or system, especially by making it more active or successful, or to making a person feel happier and more positive]: - Cambridge dictionary
 
-**Evolution** is a process of continuous branching and diversification from common trunks. This pattern of irreversible separation gives life's history its basic directionality. — Stephen Jay Gould
+**Evolution** [is a process of continuous branching and diversification from common trunks. This pattern of irreversible separation gives life's history its basic directionality.] — Stephen Jay Gould
 
 **Do we really need an evolution of the food system?**
 
