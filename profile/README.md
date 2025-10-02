@@ -44,7 +44,7 @@ It's also engineered to include everyone who wants to participate and doesn't re
 
 If you're still unsure about getting involved, drop us a note. We'll try to respond as quickly as we can.
 
-## :triangular_flag_on_post: Milestones Reached : 
+## :triangular_flag_on_post: The Journey - SiF adventure journal: 
 ### :clock1: 2020 - Y01 
 - :green_circle: Early-2020: :bulb: Establish the overall “Source-it-Fresh” idea & ideals as an Open-Source-Movement.
 - :green_circle: Mid-2020: :copyright: Add 'GNU AGPL v3.0' licensing to all metadata for future release into the wild.
@@ -53,7 +53,7 @@ If you're still unsure about getting involved, drop us a note. We'll try to resp
 ### :clock2: 2021 - Y02
 - :green_circle: Early-2021: :hammer_and_wrench: Setup & Configured MS Azure-Portal alongside Office365 Subscriptions; Resources; Dashboards; etc.
 - :green_circle: Mid-2021: :gear: Setup & Configured MS DevOps settings, with Backload; Repo; Internal-Wiki; Teams; Sprints; etc.
-- :green_circle: Late-2021: :art: Populate Wiki & "learning materials". Finalize concepts add logos, "art" and some landing page fluff.
+- :green_circle: Late-2021: :art: Populate Wiki & "learning materials". Finalize concepts, add logos, "art" and some landing page fluff.
 
 ### :clock3: 2022 - Y03
 * :green_circle: All-Of-2022: :triangular_ruler: Research & Development of multiple Prototypes from WinForm to ‘NopCommerce’ and ‘OpenCart’ with Firebase-Auth and a multitude of others.
@@ -63,14 +63,25 @@ If you're still unsure about getting involved, drop us a note. We'll try to resp
 
 ### :clock5: 2024 - Y05
 - :green_circle: Early-2024: :seedling: Sweat a Real-world Pilot-Garden into existence as a testbed. (With the help of the local community)
-- :green_circle: Mid-2024: :newspaper: Write Paper about what we are doing and why, with the hopes of attracting contributions. (pre-review InProgress)
-- :large_blue_circle: Late-2024: :octocat: Setup Public Git Repo & Move noncritical code objects over.
+- :green_circle: Mid-2024: :newspaper: Write a Paper about what we are doing and why, with the hopes of attracting contributions. (Review In Progress)
+- :green_circle: Late-2024: :octocat: Setup Private Git Repo to Move noncritical code objects over.
 
 ### :clock6: 2025 - Y06
-* :red_circle: Early_2025:
-  - :heavy_dollar_sign: Looking for [fiscal host](https://docs.opencollective.com/help/fiscal-hosts/fiscal-hosts) infrastructure to back and integrate/implement a donations model.
-  - :open_book: The transaction layer is for all users to conclude payments to providers of goods and or services. This portion of our application has not been concluded and contributors are invited to participate. transact@sourceitfresh.com
-  - :world_map: Condensed Public Roadmap...
+- :red_circle: Q1_2025: :no_entry_sign: Failed to set up an international account without registering as an entity.
+- :red_circle: Q2-2025: :no_entry: Hitting more brick walls post-registration, still unable to interact financially on a global scale.
+- :large_blue_circle: Q3-2025: :pushpin: Pivoting to use open-collective as a fiscal host until we have secured our own host and or infrastructure.
+- :large_blue_circle: Q4-2025: :pushpin: Onboarded volunteers & freelancers to Upgrade UI / UX and finalise code.
+ 
+### :clock7: 2026 - Y07
+* :white_circle: Parrallell_2026:
+  - :white_circle: Early-2025: :open_book: Onboarded, Upgrade UI and finalise code.
+  - :white_circle: Mid-2025: :open_book: Ready & Test: Prod Server and feedback channels.
+  - :white_circle: Late-2025: :open_book: Fixes any issues and Port to Native.
+ 
+* :large_blue_circle: Parrallell_2026:
+  - :large_blue_circle: ...-2026: :heavy_dollar_sign: Looking for [fiscal host](https://docs.opencollective.com/help/fiscal-hosts/fiscal-hosts) infrastructure to back and integrate/implement a donations model.
+  - :large_blue_circle: ...-2026: :open_book: The transaction layer is for all users to conclude payments to providers of goods and or services. This portion of our application has not been concluded and contributors are invited to participate. transact@sourceitfresh.com
+  - :large_blue_circle: ...-2026: :world_map: Condensed Public Roadmap with milestones
 
 ## :sunrise: Next Steps : 
 To date, SiF has been internally funded. Our capacity to launch and grow this project without external funding and contributors will be limited. While there are funding models that could be deployed, and many have been discussed at length, they have their own pitfalls, and we see limitations to growth in the poorest regions and territories where SiF could be most influential.
