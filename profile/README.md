@@ -75,7 +75,7 @@ If you're still unsure about getting involved, drop us a note. We'll try to resp
 ### :clock7: 2026 - Y07
 * :white_circle: Parrallell_2026:
   - :white_circle: Q1-2026: :computer: Ready & Test: Prod Server and feedback channels.
-  - :white_circle: Q2-2025: :microscope: Soft Go Live with selective real-world onboarding pioneers testbed.
+  - :white_circle: Q2-2025: :microscope: Soft Go-Live with selective real-world onboarding pioneers testbed.
   - :white_circle: Q3-2025: :hammer: Fixes any potential issues.
   - :white_circle: Q4-2026: :wrench: Ports features to Native.
  
