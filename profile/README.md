@@ -73,13 +73,13 @@ If you're still unsure about getting involved, drop us a note. We'll try to resp
 - :large_blue_circle: Q4-2025: :paperclip: Onboard volunteers & freelancers to Upgrade UI / UX and finalise code.
  
 ### :clock7: 2026 - Y07
-* :white_circle: Parrallell_2026:
+* :arrow_up_down: Parrallell_2026:
   - :white_circle: Q1-2026: :computer: Ready & Test: Prod Server and feedback channels.
   - :white_circle: Q2-2025: :microscope: Soft Go-Live with selective real-world onboarding pioneers testbed.
   - :white_circle: Q3-2025: :hammer: Fixes any potential issues.
   - :white_circle: Q4-2026: :wrench: Ports features to Native.
  
-* :white_circle: Parrallell_2026:
+* :left_right_arrow: Parrallell_2026:
   - :white_circle: ...-2026: :heavy_dollar_sign: Looking for [fiscal host](https://docs.opencollective.com/help/fiscal-hosts/fiscal-hosts) infrastructure to back and integrate/implement a donations model.
   - :white_circle: ...-2026: :open_book: The transaction layer is for all users to conclude payments to providers of goods and or services. This portion of our application has not been concluded and contributors are invited to participate. transact@sourceitfresh.com
   - :white_circle: ...-2026: :world_map: Condensed Public Roadmap with milestones and fearure timeline.
