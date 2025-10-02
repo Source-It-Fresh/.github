@@ -70,7 +70,7 @@ If you're still unsure about getting involved, drop us a note. We'll try to resp
 - :red_circle: Q1_2025: :no_entry_sign: Failed to set up an international account without registering as an entity.
 - :red_circle: Q2-2025: :no_entry: Hitting more brick walls post-registration, still unable to interact financially on a global scale.
 - :large_blue_circle: Q3-2025: :pushpin: Pivoting to use open-collective as a fiscal host until we have secured our own host and or infrastructure.
-- :large_blue_circle: Q4-2025: :paperclip: Onboarded volunteers & freelancers to Upgrade UI / UX and finalise code.
+- :large_blue_circle: Q4-2025: :paperclip: Onboard volunteers & freelancers to Upgrade UI / UX and finalise code.
  
 ### :clock7: 2026 - Y07
 * :white_circle: Parrallell_2026:
