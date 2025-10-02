@@ -70,18 +70,19 @@ If you're still unsure about getting involved, drop us a note. We'll try to resp
 - :red_circle: Q1_2025: :no_entry_sign: Failed to set up an international account without registering as an entity.
 - :red_circle: Q2-2025: :no_entry: Hitting more brick walls post-registration, still unable to interact financially on a global scale.
 - :large_blue_circle: Q3-2025: :pushpin: Pivoting to use open-collective as a fiscal host until we have secured our own host and or infrastructure.
-- :large_blue_circle: Q4-2025: :pushpin: Onboarded volunteers & freelancers to Upgrade UI / UX and finalise code.
+- :large_blue_circle: Q4-2025: :paperclip: Onboarded volunteers & freelancers to Upgrade UI / UX and finalise code.
  
 ### :clock7: 2026 - Y07
 * :white_circle: Parrallell_2026:
-  - :white_circle: Early-2025: :open_book: Onboarded, Upgrade UI and finalise code.
-  - :white_circle: Mid-2025: :open_book: Ready & Test: Prod Server and feedback channels.
-  - :white_circle: Late-2025: :open_book: Fixes any issues and Port to Native.
+  - :white_circle: Q1-2026: :computer: Ready & Test: Prod Server and feedback channels.
+  - :white_circle: Q2-2025: :microscope: Soft Go Live with selective real-world onboarding pioneers testbed.
+  - :white_circle: Q3-2025: :hammer: Fixes any potential issues.
+  - :white_circle: Q4-2026: :wrench: Ports features to Native.
  
-* :large_blue_circle: Parrallell_2026:
-  - :large_blue_circle: ...-2026: :heavy_dollar_sign: Looking for [fiscal host](https://docs.opencollective.com/help/fiscal-hosts/fiscal-hosts) infrastructure to back and integrate/implement a donations model.
-  - :large_blue_circle: ...-2026: :open_book: The transaction layer is for all users to conclude payments to providers of goods and or services. This portion of our application has not been concluded and contributors are invited to participate. transact@sourceitfresh.com
-  - :large_blue_circle: ...-2026: :world_map: Condensed Public Roadmap with milestones
+* :white_circle: Parrallell_2026:
+  - :white_circle: ...-2026: :heavy_dollar_sign: Looking for [fiscal host](https://docs.opencollective.com/help/fiscal-hosts/fiscal-hosts) infrastructure to back and integrate/implement a donations model.
+  - :white_circle: ...-2026: :open_book: The transaction layer is for all users to conclude payments to providers of goods and or services. This portion of our application has not been concluded and contributors are invited to participate. transact@sourceitfresh.com
+  - :white_circle: ...-2026: :world_map: Condensed Public Roadmap with milestones and fearure timeline.
 
 ## :sunrise: Next Steps : 
 To date, SiF has been internally funded. Our capacity to launch and grow this project without external funding and contributors will be limited. While there are funding models that could be deployed, and many have been discussed at length, they have their own pitfalls, and we see limitations to growth in the poorest regions and territories where SiF could be most influential.
