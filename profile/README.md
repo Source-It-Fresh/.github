@@ -64,7 +64,7 @@ If you're still unsure about getting involved, drop us a note. We'll try to resp
 ### :clock5: 2024 - Y05
 - :green_circle: Early-2024: :seedling: Sweat a Real-world Pilot-Garden into existence as a testbed. (With the help of the local community)
 - :green_circle: Mid-2024: :newspaper: Write a Paper about what we are doing and why, with the hopes of attracting contributions. (Review In Progress)
-- :green_circle: Late-2024: :octocat: Setup Private Git Repo to Move noncritical code objects over.
+- :green_circle: Late-2024: :octocat: Setup Public & Private Git Repo to Move noncritical code objects over.
 
 ### :clock6: 2025 - Y06
 - :red_circle: Q1_2025: :no_entry_sign: Failed to set up an international account without registering as an entity.
