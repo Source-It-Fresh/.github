@@ -67,22 +67,16 @@ If you're still unsure about getting involved, drop us a note. We'll try to resp
 - :green_circle: Late-2024: :octocat: Setup Public & Private Git Repo to Move noncritical code objects over.
 
 ### :clock6: 2025 - Y06
-- :red_circle: Q1_2025: :no_entry_sign: Failed to set up an international account without registering as an entity.
-- :red_circle: Q2-2025: :no_entry: Hitting more brick walls post-registration, still unable to interact financially on a global scale.
-- :large_blue_circle: Q3-2025: :pushpin: Pivoting to use [open-collective](https://opencollective.com/sourceitfresh) as an intrum fiscal host until we have secured our own host and or infrastructure.
+- :red_circle: Q1_2025: :microscope: Explored funding models with a focus on options for cross border payments and complete transparency for all participants.
+- :red_circle: Q2-2025: :no_entry: Hit many dead ends for funding model with global restrictions and regulations.
+- :large_blue_circle: Q3-2025: :pushpin: Pivoting to use [open-collective](https://opencollective.com) as fiscal host.
 - :large_blue_circle: Q4-2025: :paperclip: Onboard volunteers & freelancers to Upgrade UI / UX and finalise code.
  
 ### :clock7: 2026 - Y07
-* :arrow_up_down: Parrallell_2026:
-  - :white_circle: Q1-2026: :computer: Ready & Test: Prod Server and feedback channels.
-  - :white_circle: Q2-2025: :microscope: Soft Go-Live with selective real-world onboarding pioneers.
-  - :white_circle: Q3-2025: :hammer: Fixes any potential issues.
-  - :white_circle: Q4-2026: :wrench: Ports features to Native.
- 
-* :left_right_arrow: Parrallell_2026:
-  - :white_circle: ...-2026: :heavy_dollar_sign: Looking for [fiscal host](https://docs.opencollective.com/help/fiscal-hosts/fiscal-hosts) infrastructure to back and integrate/implement a donations model.
-  - :white_circle: ...-2026: :open_book: The transaction layer portion of our application has not been concluded; Contributors are invited to participate. transact@sourceitfresh.com
-  - :white_circle: ...-2026: :world_map: Condensed Public Roadmap with milestones and fearure timeline.
+* :arrow_up_down: Parallel_2026:
+  - :white_circle: Q1-2026: :computer: Ready & Test: Prod Server and feedback channels. :microscope: Soft Go-Live with selective real-world onboarding pioneers.
+  - :white_circle: Q2-2026: :hammer: Fix any potential issues. :wrench: Port features to Native.
+  - :white_circle: ...-2026: :world_map: Condense Public Roadmap with milestones and feature timeline.
 
 ## :sunrise: Next Steps : 
 To date, SiF has been internally funded. Our capacity to launch and grow this project without external funding and contributors will be limited. While there are funding models that could be deployed, and many have been discussed at length, they have their own pitfalls, and we see limitations to growth in the poorest regions and territories where SiF could be most influential.
