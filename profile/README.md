@@ -52,7 +52,7 @@ If you're still unsure about getting involved, drop us a note. We'll try to resp
 
 ### :clock2: 2021 - Y02
 - :green_circle: Early-2021: :hammer_and_wrench: Setup & Configured MS Azure-Portal alongside Office365 Subscriptions; Resources; Dashboards; etc.
-- :green_circle: Mid-2021: :gear: Setup & Configured MS DevOps settings, with Backload; Repo; Internal-Wiki; Teams; Sprints; etc.
+- :green_circle: Mid-2021: :gear: Setup & Configured MS DevOps settings, with Backlog; Repo; Internal-Wiki; Teams; Sprints; etc.
 - :green_circle: Late-2021: :art: Populate Wiki & "learning materials". Finalize concepts, add logos, "art" and some landing page fluff.
 
 ### :clock3: 2022 - Y03
@@ -67,16 +67,20 @@ If you're still unsure about getting involved, drop us a note. We'll try to resp
 - :green_circle: Late-2024: :octocat: Setup Public & Private Git Repo to Move noncritical code objects over.
 
 ### :clock6: 2025 - Y06
-- :red_circle: Q1_2025: :microscope: Explored funding models with a focus on options for cross border payments and complete transparency for all participants.
+- :red_circle: Q1_2025: :currency_exchange: Explored funding models with a focus on options for cross border payments and complete transparency for all participants.
 - :red_circle: Q2-2025: :no_entry: Hit many dead ends for funding model with global restrictions and regulations.
 - :large_blue_circle: Q3-2025: :pushpin: Pivoting to use [open-collective](https://opencollective.com) as fiscal host.
 - :large_blue_circle: Q4-2025: :paperclip: Onboard volunteers & freelancers to Upgrade UI / UX and finalise code.
  
 ### :clock7: 2026 - Y07
-* :arrow_up_down: Parallel_2026:
-  - :white_circle: Q1-2026: :computer: Ready & Test: Prod Server and feedback channels. :microscope: Soft Go-Live with selective real-world onboarding pioneers.
-  - :white_circle: Q2-2026: :hammer: Fix any potential issues. :wrench: Port features to Native.
-  - :white_circle: ...-2026: :world_map: Condense Public Roadmap with milestones and feature timeline.
+* :white_circle: Early-in-2026:
+    - :computer: Ready & Test: Prod Server and feedback channels.
+    - :microscope: Soft Go-Live with selective real-world onboarding pioneers.
+* :white_circle: Start-of-2026:
+    - :hammer: Fix any potential issues.
+    - :wrench: Port features to Native.
+* :white_circle: Later-on-2026:
+   - :world_map: Condense Public Roadmap with milestones and feature timeline.
 
 ## :sunrise: Next Steps : 
 To date, SiF has been internally funded. Our capacity to launch and grow this project without external funding and contributors will be limited. While there are funding models that could be deployed, and many have been discussed at length, they have their own pitfalls, and we see limitations to growth in the poorest regions and territories where SiF could be most influential.
