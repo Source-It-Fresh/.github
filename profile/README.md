@@ -23,7 +23,8 @@ If you're still sceptical, let's start with a few questions... and let's apply t
 
 If the food you eat makes you sick, who benefits? If local regenerative farms are stifled and big ag promoted, who benefits? If policies and regulations threaten the livelyhoods of local farmers, who benefits? We could go on and on with this but you get the drift. Try it yourself with ANY of the measures introduced by the policy makers.
 
-That being said, many aspects of the global food system are failing.  The current power structures don't seem willing or able to provide solutions at all. Is this intentional? Or, is it the result of bloated, incompetent governance that lacks capacity to perform? 
+That being said, many aspects of the global food system are failing.  The current power structures don't seem willing or able to provide solutions at all. Is this intentional? Or, is it the result of bloated, incompetent governance that lacks capacity to perform?
+
 Whatever the reasons, the crisis is here and steadily getting worse. 
 
 We, the many, have the power to change the way we do things and erode the power of systems presently in play.
