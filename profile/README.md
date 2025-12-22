@@ -70,7 +70,7 @@ If you're still unsure about getting involved, drop us a note. We'll try to resp
 ### :clock6: 2025 - Y06
 - :red_circle: Q1_2025: :currency_exchange: Explored funding models with a focus on options for cross border payments and complete transparency for all participants.
 - :red_circle: Q2-2025: :no_entry: Hit many dead ends for funding model with global restrictions and regulations.
-- :large_blue_circle: Q3-2025: :pushpin: Pivoting to use [open-collective](https://opencollective.com) as fiscal host.
+- :large_blue_circle: Q3-2025: :pushpin: Pivoting to use [open-collective](https://opencollective.com) as fiscal host. Not convinced yet.
 - :large_blue_circle: Q4-2025: :paperclip: Onboard volunteers & freelancers to Upgrade UI / UX and finalise code.
  
 ### :clock7: 2026 - Y07
