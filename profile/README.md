@@ -17,7 +17,7 @@
 
 **Do we really need an evolution of the food system?**
 
-If your answer is yes, then get on board and help us launch a global, multi-lingual food systems mobile application for consumers, producers and complimentary suppliers. It's designed for anyone who produces food and related products, consumes food and related products and anyone who supplies services or related products to complete the cycle between consumers and producers. It's geared for people who want freedom of choice in what they consume and what they produce. It's for people who want to be part of the transformation we most definitely need for the coming years.
+If your answer is yes, then get on board and help us launch a global, multi-lingual food systems platform for consumers, producers and complimentary suppliers. It's designed for anyone who produces food and related products, consumes food and related products and anyone who supplies services or related products, completing the cycle between consumers and producers. It's geared for people who want freedom of choice in what they consume and what they produce. It's for people who want to be part of the transformation we most definitely need for the coming years.
 
 If you're still sceptical, let's start with a few questions... and let's apply the Qui Bono (to whom is it a benefit?) principle.
 
